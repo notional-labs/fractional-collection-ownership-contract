@@ -1,1 +1,1 @@
-# fractional-collection-ownership-contract
+# Fractional NFT Collection's Ownership Contract
